@@ -2,7 +2,7 @@
 
 [VS Code](https://code.visualstudio.com/) / [Atom One Dark](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) inspired developer portfolio app. :blush:
 
-Site live at [https://zohair.dev](https://zohair.dev)
+Site live at [https://zohair.dev](https://zohair.dev).
 
 ### Screenshot
 
