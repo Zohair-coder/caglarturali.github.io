@@ -26,7 +26,7 @@
 
 - [Drexel Course Notifier](https://github.com/Zohair-coder/Drexel-Course-Availability-Notifier)
 
-  Built a web-scraperin Python3 that notifies students via email when their selected course has available seats, impacting over 130 students at Drexel University
+  Built a web-scraper in Python3 that notifies students via email when their selected course has available seats, impacting over 130 students at Drexel University
 
   <img src="/images/projects/course-notifier.png" width="80%">
 
