@@ -10,10 +10,10 @@
   "homepage": "https://www.zohair.dev",
   "license": "GNU GPLv3",
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts build",
+    "start": "craco start",
+    "build": "craco build",
     "test:base": "react-scripts test --passWithNoTests",
-    "test": "npm run test:base -- --watchAll=false",
+    "test": "craco test",
     "test:watch": "npm run test:base -- --watchAll",
     "test:update": "npm run test:base -- --updateSnapshot --forceExit",
     "eject": "react-scripts eject",
@@ -40,7 +40,6 @@
     "clsx": "^1.1.1",
     "color": "^3.2.1",
     "dayjs": "^1.10.7",
-    "dotenv": "^8.6.0",
     "isomorphic-unfetch": "^3.1.0",
     "normalize.css": "^8.0.1",
     "react": "^16.14.0",
@@ -55,6 +54,7 @@
     "typed.js": "^2.0.12"
   },
   "devDependencies": {
+    "@craco/craco": "^7.1.0",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^10.4.9",
     "@testing-library/user-event": "^12.8.3",
@@ -65,18 +65,15 @@
     "@types/react": "^16.14.20",
     "@types/react-dom": "^16.9.14",
     "@types/react-helmet": "^5.0.19",
-    "@typescript-eslint/eslint-plugin": "^2.34.0",
-    "@typescript-eslint/parser": "^2.34.0",
-    "eslint": "6.8.0",
-    "eslint-config-prettier": "^6.15.0",
-    "eslint-plugin-prettier": "^3.4.1",
-    "eslint-plugin-react": "^7.26.1",
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
+    "path-browserify": "^1.0.1",
     "prettier": "^2.4.1",
+    "process": "^0.11.10",
     "ts-node": "^9.1.1",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^3.9.10"
+    "typescript": "^3.9.10",
+    "webpack": "^5.97.1"
   },
   "browserslist": {
     "production": [

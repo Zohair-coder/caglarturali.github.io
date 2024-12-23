@@ -28,7 +28,6 @@ const MainLayout: React.FC<MainLayoutProps> = ({
   tabs,
   contactData,
 }) => {
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const [explorerOpen, setExplorerOpen] = useState(false);
 
   const classes = useStyles();
