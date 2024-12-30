@@ -19,7 +19,7 @@
 
   I built a toy project to visualize the relationship between courses and professors in CCI using D3.js. It isn't meant to be useful, but it was a fun project to build.
 
-  <img src="/images/projects/course-professor-graph-visualization.png" width="80%"/>
+  <img src="/images/projects/d3.gif" width="80%"/>
 
 - [What's In Your Fridge?](https://gitlab.cci.drexel.edu/ci102-3teaml/whats_in_your_fridge)
   Live Site: [fridge.zohair.dev](https://fridge.zohair.dev/)
