@@ -5,9 +5,20 @@ import './theme/icons';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import { PostHogProvider } from 'posthog-js/react';
+
+const options = {
+  api_host: 'https://us.i.posthog.com',
+};
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <PostHogProvider
+      apiKey="phc_MRdNJPQZCtcnauf4euDYm1PrVh3kTo7ZNSuK5GyRNtR"
+      options={options}
+    >
+      <App />
+    </PostHogProvider>
   </React.StrictMode>,
   document.getElementById('root'),
 );
