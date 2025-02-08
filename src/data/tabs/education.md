@@ -3,7 +3,7 @@
 - Drexel University
 
   - B.S. in Computer Science
-  - Expected Graduation in June 2024
+  - Graduated in June 2024
   - GPA: 3.86
 
 - Harvard CS50 Course ([certificate] (https://certificates.cs50.io/801bb5e8-6b16-4993-94ac-85911ba54d47.pdf?size=letter))

@@ -2,7 +2,13 @@
 
 <img src="/images/sig_logo.png" width=70 />
 
-Susquehanna International Group (SIG) - Software Developer (March 2023 - September 2023)
+Susquehanna International Group (SIG) - Software Developer (August 2024 - Current)
+
+- Currently working as a full time Software Developer at SIG :\)
+
+<img src="/images/sig_logo.png" width=70 />
+
+Susquehanna International Group (SIG) - Software Developer Internship (March 2023 - September 2023)
 
 - Worked on multiple projects leveraging the .NET ecosystem, SQL Server databases, and Elastic APM
 - Maintained .NET MVC applications for application inventory management and operational checks, improving information accessibility and application performance monitoring
@@ -13,7 +19,7 @@ Susquehanna International Group (SIG) - Software Developer (March 2023 - Septemb
 
 <img src="/images/sap_logo.png" width=50 />
 
-SAP America - Artificial Intelligence (April 2022 - March 2023)
+SAP America - Artificial Intelligence Internship (April 2022 - March 2023)
 
 - Contributed to an open-source ML platform (ML Lab [github.com/SAP/machine-learning-lab](https://github.com/SAP/machine-learning-lab)) that acts as a centralized hub for development teams to seamlessly build, deploy, & operate ML solutions at scale
 - Integrated an open-source solution, MLFlow, into ML Lab for tracking parameters, metrics & artifacts for each run using Python, FastAPI & React
@@ -35,7 +41,7 @@ SAP America - Artificial Intelligence (April 2022 - March 2023)
 <img src="/images/sap_logo.png" width=50 />
 </div>
 
-SAP America - Production Management Portals (April 2021 - March 2022)
+SAP America - Production Management Portals Internship (April 2021 - March 2022)
 
 - Developed and deployed a webapp, and an accompanying Terraform Provider written in Go to report virtual machines in use to SAP’s internal auditing system
 - Built a front end in vanilla JavaScript and a backend in Node.js
