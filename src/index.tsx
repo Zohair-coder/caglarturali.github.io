@@ -6,9 +6,11 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 import { PostHogProvider } from 'posthog-js/react';
+import { PostHogConfig } from 'posthog-js';
 
-const options = {
+const options: Partial<PostHogConfig> = {
   api_host: 'https://us.i.posthog.com',
+  person_profiles: 'always',
 };
 
 ReactDOM.render(
