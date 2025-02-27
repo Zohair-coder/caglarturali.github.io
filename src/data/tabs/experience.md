@@ -30,11 +30,17 @@ SAP America - Artificial Intelligence Internship (April 2022 - March 2023)
 - Debugged and fixed small issues with ML Lab using React and Python to improve user experience
 
 <div>
-<img src="/images/mlflow/1.png" width="80%" style="margin-bottom: 25px">
+<a href="/images/mlflow/1.png" target="_blank">
+    <img src="/images/mlflow/1.png" width="80%" style="margin-bottom: 25px">
+</a>
 
-<img src="/images/mlflow/2.png" width="80%" style="margin-bottom: 25px">
+<a href="/images/mlflow/2.png" target="_blank">
+    <img src="/images/mlflow/2.png" width="80%" style="margin-bottom: 25px">
+</a>
 
-<img src="/images/mlflow/3.png" width="80%" style="margin-bottom: 35px">
+<a href="/images/mlflow/3.png" target="_blank">
+    <img src="/images/mlflow/3.png" width="80%" style="margin-bottom: 35px">
+</a>
 </div>
 
 <div>
