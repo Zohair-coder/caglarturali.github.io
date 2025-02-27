@@ -9,7 +9,8 @@ import { PostHogProvider } from 'posthog-js/react';
 import { PostHogConfig } from 'posthog-js';
 
 const options: Partial<PostHogConfig> = {
-  api_host: 'https://us.i.posthog.com',
+  api_host: 'https://www.zohair.dev/ingest',
+  ui_host: 'https://us.posthog.com',
   person_profiles: 'always',
 };
 
