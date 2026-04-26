@@ -20,7 +20,9 @@
     "lint": "eslint \"*/**/*.{js,ts,tsx}\"",
     "lint:ci": "npm run lint -- --quiet",
     "lint:fix": "npm run lint -- --fix",
-    "progress": "ts-node -O '{\"module\":\"commonjs\"}' scripts/updateProgress.ts"
+    "progress": "ts-node -O '{\"module\":\"commonjs\"}' scripts/updateProgress.ts",
+    "deploy": "pnpm run build && wrangler deploy",
+    "preview": "pnpm run build && wrangler dev"
   },
   "husky": {
     "hooks": {
@@ -74,7 +76,8 @@
     "ts-node": "^9.1.1",
     "ts-node-dev": "^1.1.8",
     "typescript": "^3.9.10",
-    "webpack": "^5.97.1"
+    "webpack": "^5.97.1",
+    "wrangler": "^4.85.0"
   },
   "browserslist": {
     "production": [

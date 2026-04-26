@@ -27,3 +27,9 @@ yarn-error.log*
 .netlify
 
 public/resume.pdf
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
